@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Kuba. I am a a third-year student of Computer Science at the Kielce University of Technology. I specialize in creating web application. I would like to work as Full Stack web developer.  
+I'm Kuba. I am a a third-year student of Computer Science at the Kielce University of Technology. I specialize in creating web application (front-end and back-end). I would like to work as Full Stack web developer.  
 
 
 
