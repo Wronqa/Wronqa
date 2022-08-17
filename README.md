@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Wronqa/Wronqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm Kuba. I am a a third-year student of Computer Science at the Kielce University of Technology. I specialize in creating web application. 
 
 Here are some ideas to get you started:
 
