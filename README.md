@@ -23,7 +23,7 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
 </div>
 
 <ul>
-   - 🌱 I’m currently learning how to use libraries to test react application (JEST and React Testing Library)   
+   🌱 I’m currently learning how to use libraries to test react application (JEST and React Testing Library)   
 </ul>
 
 - 👯 I’m looking to collaborate on ...
