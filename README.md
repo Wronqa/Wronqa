@@ -22,7 +22,8 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
 <img src="https://i.ibb.co/D5NgXKK/redux-cover-imgage-1024x768.jpg" width="50" height="50"> 
 </div>
 
-
+<br/>
+<br/>
 
 
 - 🌱 I’m currently learning ...
