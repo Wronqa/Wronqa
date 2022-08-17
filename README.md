@@ -7,8 +7,8 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
 
 <ul>
    <li>HTML/CSS</li>
-   <li> React (Hooks, styled-components)</li>
    <li>Type Script</li>
+   <li> React (Hooks, styled-components)</li>
    <li>Node.js</li>
 </ul>
   
@@ -22,10 +22,10 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
 <img src="https://i.ibb.co/D5NgXKK/redux-cover-imgage-1024x768.jpg" width="50" height="50"> 
 </div>
 
+<ul>
+   - 🌱 I’m currently learning how to use libraries to test react application (JEST and React Testing Library)   
+</ul>
 
-
-
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
