@@ -22,9 +22,9 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
 <img src="https://i.ibb.co/D5NgXKK/redux-cover-imgage-1024x768.jpg" width="50" height="50"> 
 </div>
 
-<ul>
-  <li> 🌱 I’m currently learning how to use libraries to test react application (JEST and React Testing Library) </li>  
-</ul>
+</br></br>
+
+ 🌱 I’m currently learning how to use libraries to test react application (JEST and React Testing Library)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
