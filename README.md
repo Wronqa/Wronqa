@@ -3,8 +3,8 @@
 
 I'm Kuba. I am a third-year student of Computer Science at the Kielce University of Technology. I specialize in creating web application (front-end and back-end). I would like to work as Full Stack web developer.  
 
-🛠️ Technologies </br>
-<img src="https://user-images.githubusercontent.com/87782832/185109016-fde3a5cf-307e-4dc9-824a-636e95811453.png" width="100" height="30"> </br>
+🛠️ Technologies </br></br>
+<img src="https://user-images.githubusercontent.com/87782832/185109016-fde3a5cf-307e-4dc9-824a-636e95811453.png" width="100" height="25"> </br>
 
 
 
