@@ -39,14 +39,11 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
   
 <h1> Contact </h1>
 <ul>
-   <li>HTML5 / CSS3 / JS</li>
-   <li> Type Script</li>
-   <li> React (Hooks, styled-components)</li>
-   <li> Redux</li>
-   <li> REST API</li>
-   <li> Node.js</li>
-   <li> Git</li>
+   <li>
+         <img src="https://user-images.githubusercontent.com/87782832/185351456-6b67e582-2a8a-423f-af6f-43c3cd47ec55.png" width="20" height="20"> 
+         <span> kuba.wrona@onet.pl </span>
+   </li>
+   
 </ul>
   
-
 
