@@ -30,9 +30,23 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
      
 </div>
 
+<h1> Contact </h1>
+<ul>
+   <li>HTML5 / CSS3 / JS</li>
+   <li> Type Script</li>
+   <li> React (Hooks, styled-components)</li>
+   <li> Redux</li>
+   <li> REST API</li>
+   <li> Node.js</li>
+   <li> Git</li>
+</ul>
+  
 
 </br>
 
   I’m currently learning how to use libraries to test react application (JEST and React Testing Library)
+  
+  
+  
 
 
