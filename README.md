@@ -12,7 +12,8 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
    <li> Type Script</li>
    <li> React (Hooks, styled-components)</li>
    <li> Redux</li>
-   <li>Node.js</li>
+   <li> Node.js</li>
+   <li> Git</li>
 </ul>
   
 
@@ -24,6 +25,7 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
       <img src="https://user-images.githubusercontent.com/87782832/185110558-93edae4e-fd6d-4ab0-afa4-73ece941bfde.png" width="50" height="50">
       <img src="https://i.ibb.co/D5NgXKK/redux-cover-imgage-1024x768.jpg" width="50" height="50">
       <img src="https://user-images.githubusercontent.com/87782832/185346674-7339c0a9-9722-459a-b7e1-f636c78d1467.png" width="50" height="50"> 
+      <img src="https://user-images.githubusercontent.com/87782832/185347230-530ef9c1-8cc7-40f2-8900-c32751c858e5.png" width="50" height="50"> 
      
 </div>
 
