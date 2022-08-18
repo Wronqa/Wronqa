@@ -41,7 +41,7 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
 <ul>
    <li>
          <img src="https://user-images.githubusercontent.com/87782832/185351456-6b67e582-2a8a-423f-af6f-43c3cd47ec55.png" width="20" height="20"> 
-         <span> kuba.wrona@onet.pl </span>
+          kuba.wrona@onet.pl 
    </li>
    
 </ul>
