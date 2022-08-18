@@ -9,8 +9,9 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
 
 <ul>
    <li>HTML/CSS/JS</li>
-   <li>Type Script</li>
+   <li> Type Script</li>
    <li> React (Hooks, styled-components)</li>
+   <li> Redux</li>
    <li>Node.js</li>
 </ul>
   
