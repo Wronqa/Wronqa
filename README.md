@@ -25,7 +25,7 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
       <img src="https://user-images.githubusercontent.com/87782832/185110558-93edae4e-fd6d-4ab0-afa4-73ece941bfde.png" width="50" height="50">
       <img src="https://i.ibb.co/D5NgXKK/redux-cover-imgage-1024x768.jpg" width="50" height="50">
       <img src="https://user-images.githubusercontent.com/87782832/185346674-7339c0a9-9722-459a-b7e1-f636c78d1467.png" width="50" height="50"> 
-      <img src="https://user-images.githubusercontent.com/87782832/185347230-530ef9c1-8cc7-40f2-8900-c32751c858e5.png" width="70" height="70"> 
+      <img src="https://user-images.githubusercontent.com/87782832/185347490-620a6943-783f-44f4-aa6f-77e333b764a3.png" width="50" height="50"> 
      
 </div>
 
