@@ -30,6 +30,13 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
      
 </div>
 
+</br>
+
+ I’m currently learning how to use libraries to test react application (JEST and React Testing Library)
+  
+ </br>
+  
+  
 <h1> Contact </h1>
 <ul>
    <li>HTML5 / CSS3 / JS</li>
@@ -40,13 +47,6 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
    <li> Node.js</li>
    <li> Git</li>
 </ul>
-  
-
-</br>
-
-  I’m currently learning how to use libraries to test react application (JEST and React Testing Library)
-  
-  
   
 
 
