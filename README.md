@@ -39,9 +39,9 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
   
 <h1> Contact </h1>
 
-<p>  
-      <span valign="center"> kuba.wrona@onet.pl </span> 
-</p>
+<ul>  
+     <li> kuba.wrona@onet.pl  <li>
+</ul>
  
    
 
