@@ -12,6 +12,7 @@ I'm Kuba. I am a third-year student of Computer Science at the Kielce University
    <li> Type Script</li>
    <li> React (Hooks, styled-components)</li>
    <li> Redux</li>
+   <li> REST API</li>
    <li> Node.js</li>
    <li> Git</li>
 </ul>
