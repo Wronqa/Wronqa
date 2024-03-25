@@ -32,7 +32,7 @@ Frontend developer with more than a year of experience in developing and testing
 
 </br>
 
- I’m currently learning how to use libraries to test react application (JEST and React Testing Library)
+
   
  </br>
   
