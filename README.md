@@ -1,15 +1,15 @@
 ### Hi! Welcome on my GitHub profile! 👋
 
 
-I'm Kuba. I am a third-year student of Computer Science at the Kielce University of Technology. I specialize in creating web application (front-end and back-end). I would like to work as Full Stack web developer.  
-
+Frontend developer with more than a year of experience in developing and testing websites and web applications. I bring value with a strong understanding of 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 and 𝗥𝗲𝗮𝗰𝘁 technologies. Proficient in troubleshooting, and debugging web applications, collaborating with cross-functional teams, and researching new technologies to drive project success.
 </br>
 
 🛠️ Technologies </br>
 
 <ul>
-   <li>HTML5 / CSS3 / JS</li>
+   <li>Angular (RxJS, NgRx)</li>
    <li> Type Script</li>
+   <li>HTML5 / CSS3 / JS</li>
    <li> React (Hooks, styled-components)</li>
    <li> Redux</li>
    <li> REST API</li>
