@@ -1,46 +1,35 @@
 ### Hi! Welcome on my GitHub profile! 👋
 
 
-Frontend developer with more than a year of experience in developing and testing websites and web applications. I bring value with a strong understanding of 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 and 𝗥𝗲𝗮𝗰𝘁 technologies. Proficient in troubleshooting, and debugging web applications, collaborating with cross-functional teams, and researching new technologies to drive project success.
+Hello! 👋 I'm a dedicated and enthusiastic Data Scientist and Cloud Engineer with a solid foundation in machine learning. My professional journey began in frontend development, where I honed my skills in creating dynamic web applications, and has since evolved into a passion for artificial intelligence, data science, and scalable cloud solutions.
 </br>
 
 🛠️ Technologies </br>
 
 <ul>
-   <li>Angular (RxJS, NgRx)</li>
-   <li> Type Script</li>
-   <li>HTML5 / CSS3 / JS</li>
-   <li> React (Hooks, styled-components)</li>
-   <li> Redux</li>
-   <li> REST API</li>
-   <li> Node.js</li>
-   <li> Git</li>
+   <li>Machine Learning & Data Science: Designing, implementing, and evaluating machine learning models across various domains. I'm adept at the full ML lifecycle, from data preprocessing and feature engineering to model training, optimization, and deployment.</li>
+   <li>Cloud Computing & Architecture: Leveraging leading cloud platforms to build and manage robust, scalable, and cost-effective solutions. I have hands-on experience in deploying ML workloads, managing cloud resources, and understanding architectural best practices.</li>
+   <li>Python Development: Proficient in Python, I develop clean, efficient, and maintainable code for data analysis, machine learning algorithms, and automation tasks. My toolkit includes libraries such as pandas, NumPy, scikit-learn, TensorFlow, and PyTorch.</li>
+   <li>Web Technologies: While my primary focus has shifted, I possess a strong understanding of web fundamentals, including Angular, React, TypeScript, HTML5, CSS3, JavaScript, REST APIs, and Node.js, which provides a valuable perspective on full-stack integration and deployment challenges.</li>
 </ul>
-  
-
- <div>
-      <img src="https://user-images.githubusercontent.com/87782832/185110917-7dedc34b-8b27-4d06-b987-0529ffe70d24.png" width="50" height="50"> 
-      <img src="https://user-images.githubusercontent.com/87782832/185111467-f94b4bdf-b5fa-482a-9a05-18e351d65f65.png" width="50" height="50"> 
-      <img src="https://user-images.githubusercontent.com/87782832/185135751-98175dda-6155-4bf7-accb-369c80c2da7f.png" width="50" height="50"> 
-      <img src="https://user-images.githubusercontent.com/87782832/185110186-900282b0-dca7-49d8-a8a8-30de5f3837b3.png" width="50" height="50"> 
-      <img src="https://user-images.githubusercontent.com/87782832/185110558-93edae4e-fd6d-4ab0-afa4-73ece941bfde.png" width="50" height="50">
-      <img src="https://i.ibb.co/D5NgXKK/redux-cover-imgage-1024x768.jpg" width="50" height="50">
-      <img src="https://user-images.githubusercontent.com/87782832/185346674-7339c0a9-9722-459a-b7e1-f636c78d1467.png" width="50" height="50"> 
-      <img src="https://user-images.githubusercontent.com/87782832/185347490-620a6943-783f-44f4-aa6f-77e333b764a3.png" width="50" height="50"> 
-     
-</div>
 
 </br>
 
+<b>Certifications</b> 
+<p>My commitment to continuous learning and best practices is underscored by my professional certifications:</p>
+<ul>
+   <li>AWS Certified Cloud Practitioner</li>
+   <li>AWS Certified AI Practitioner</li>
+   <li>AWS Certified Solutions Architect – Associate</li>
+</ul>
 
-  
- </br>
   
   
 <h1> Contact </h1>
 
 <ul>  
      <li> kuba.wrona@onet.pl  </li>
+     <li>https://www.linkedin.com/in/j-wrona/</li>
 </ul>
  
    
